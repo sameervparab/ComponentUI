@@ -1,0 +1,7 @@
+.kScreenContainer{padding:20px;}
+.topContent{border:1px solid #CBCBCB; padding: 30px; border-radius: 5px;}
+.topContent .row {display: flex; justify-content:flex-start; margin-bottom: 40px;}
+.topContent .bldgInfoCell {margin-left: 280px;}
+.topContent .bldgInfoCell:first-child {margin-left: 0px;}
+.topContent .btns {margin-left: 280px;}
+.topContent .form-group {margin-left: 280px; margin-top: 12px}

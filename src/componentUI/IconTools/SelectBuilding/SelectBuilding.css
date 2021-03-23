@@ -1,0 +1,2 @@
+.selectBuilding {background : url("selectBuilding.svg") no-repeat right top; width: 36px; height:36px; cursor: pointer; -webkit-transition: all 0.5s;-o-transition: all 0.5s;transition: all 0.5s;}
+.selectBuilding:hover{background : url("selectBuildingHover.svg") no-repeat right top;}

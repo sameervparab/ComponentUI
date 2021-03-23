@@ -3,10 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import K2Screen from './K2Screen';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    {/* <K2Screen/> */}
+    <App/>
   </React.StrictMode>,
   document.getElementById('root')
 );

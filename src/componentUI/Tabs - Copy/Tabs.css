@@ -1,0 +1,42 @@
+/*.tabUI {
+  width: 50%;
+}
+.tabUI header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 0;
+}
+
+.tabUI .MuiTabs-flexContainer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.tabUI .MuiTab-root{
+
+  padding: 6px 0px;
+  max-width: 0px;
+  
+}
+
+.makeStyles-root-14 {
+  width: 100%;
+  flex-grow: 1;
+  background-color: #fff;
+}*/
+
+.tabUI {width: 350px;}
+.tabUI .MuiAppBar-root{flex-direction: unset;}
+.tabUI header {padding: 0 0px;}
+
+.tabUI .MuiAppBar-colorDefault{background-color: transparent;}
+.tabUI .MuiPaper-elevation4{box-shadow: none;}
+.tabUI .MuiTab-textColorPrimary.Mui-selected{color: #fff; background-color: #3f51b5;}
+.tabUI .MuiBox-root{height: 200px; overflow-y: auto;}
+.tabUI button.MuiTab-root{background-color: #828699; margin: 0 5px; color:#fff ;  min-width: 99px;
+  font-size: 13px; }
+.tabUI button.MuiTab-root:first-child{margin-left:0}
+.tabUI button.MuiTab-root{min-height: 35px;}
+.tabUI .MuiTabs-indicator{display: none;}
+.tabUI .MuiTabs-root{min-height: 35px;}

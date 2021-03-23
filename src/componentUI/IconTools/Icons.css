@@ -1,0 +1,7 @@
+.iconsTools {
+    display: -webkit-box;display: -ms-flexbox;display: flex;
+    border-bottom: 1px solid #e9e9e9;
+    padding-bottom: 10px;
+}
+
+.iconsTools div{margin-left: 5px;}
